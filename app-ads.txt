@@ -1,0 +1,4 @@
+# Orbinova Studio — app-ads.txt
+# AdMob 계정을 만든 뒤 아래 줄의 맨 앞 '#'을 지우고 pub-0000000000000000을 실제 게시자 ID로 바꾸세요.
+# (AdMob › 앱 › app-ads.txt 설정에 나오는 한 줄을 그대로 붙여 넣어도 됩니다)
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
